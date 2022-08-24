@@ -2,5 +2,5 @@
 #!/bin/bash
 ALX School is so cool!
 =======
-echo ALX
+echo "ALX School"
 >>>>>>> 37a50d5139ac64a605adb434823b8eb3973aec58
